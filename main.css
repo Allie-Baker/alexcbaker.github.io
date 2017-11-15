@@ -19,6 +19,12 @@ body{
 	ul{
 		list-style-type: square;
 	}
-	a{
-		color: white;
+	
+	a:link {
+	color: grey;
+	
+	}
+	a:visited {
+		color: pink;
+		
 	}
