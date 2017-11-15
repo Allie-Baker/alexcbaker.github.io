@@ -1,0 +1,21 @@
+body{
+	background-color:blue;
+}
+
+	h1{
+		color: grey;
+		text-align: left;
+		font-size: 60px
+		font-family: Raleway, bold;
+	}
+	
+	p{
+		color: white;
+		text-align: left;
+		font-size: 16px
+		font-family: Raleway, bold;
+	}
+	
+	ul{
+		list-style-type: square;
+	}
