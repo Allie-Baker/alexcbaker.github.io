@@ -1,3 +1,25 @@
+<head>
+
+<title>This is the Process Project Coming soon!</title>
+</head>
+
+<body>
+	<h1>process project</h1>
+
+	<br>
+	<br>
+	UNDER CONSTRUCTION!!!
+
+	<center><a href="index.html">Home</a></center>
+	
+</body>
+	
+</html>
+
+
+
+
+
 size(500, 500);
 
 //rec(x, y, width, height);
