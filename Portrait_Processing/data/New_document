@@ -1,0 +1,9 @@
+<html>
+	<head>
+<---this is the bare bones of an html doc!--->
+<title>My Portfolio</title>
+</head>
+<body>
+	<h1>Welcome to my Portfolio</h1>
+		<p>This is my Art 74 Portfolio</p>
+</body>	
