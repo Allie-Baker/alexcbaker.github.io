@@ -1,4 +1,4 @@
-<html>
+e<html>
 <head>
 <script type="text/javascript" src="processing.js"></script>
 	<!---Get ready for some great videos! This page is still undergoing construction!--->
@@ -15,6 +15,6 @@
 	
 	
 	
-	<bottom-left><a href="index.html">Home</a></left>
+	<left><a href="index.html">Home</a></left>
 </body>
 </html>
